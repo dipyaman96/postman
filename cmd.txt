@@ -1,0 +1,9 @@
+C:\Users\2355021>cd ..
+
+C:\Users>cd ..
+
+C:\>cd AutomationPractice
+
+C:\AutomationPractice>json-server students.json
+
+C:\AutomationPractice>java -jar file-upload-RestAPI.jar

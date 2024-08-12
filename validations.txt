@@ -1,0 +1,28 @@
+status codes
+headers
+cookies
+response time
+response body
+
+pm - built in library in postman
+tv4 - tiny validator version 4(schema validation)
+functions
+javascript
+
+
+chai assertion framework in javascript
+pm.test("Test Name",()=>{
+    //  Assertion;
+});
+
+schema - what kind of data we are storing in the table
+json to json schema(json schema converter)
+
+
+
+pre-request(collection/folder/request)->request->response->test scripts(collection;ection/folder/request)
+
+workspace(global)->collections->folders->requests
+variables - global(*/request level - pre request script), collection(collection folder->variables/request level - pre request script), environment(switch to particular/request level - pre request script), local(request level - pre request script), data
+
+pre request scripts - set for local, environment, collection, global,  post scripts - log/get and unset
